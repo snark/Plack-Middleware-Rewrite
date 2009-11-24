@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/00-require.t
+lib/Plack/Middleware/Rewrite.pm
